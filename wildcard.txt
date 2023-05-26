@@ -27,7 +27,24 @@
 *.garena.com
 *.akamaihd.net
 *.tongdun.net
-*.ajay.app
 *.appsflyer.com
 *.appsflyersdk.com
 *.ntp.org
+
+# ---------------------------
+
+*.alibabadns.com
+*.alibaba.com
+*.aliyuncs.com
+*.alipaydns.com
+*.alicdn.com
+*.cdngslb.com
+*.kunlungem.com
+*.ksyunv5.com
+*.lazada.com
+*.lazada.sg
+*.lazada.vn
+*.slatic.net
+*.taobao.com
+*.tbcache.com
+*.ucweb.com
