@@ -222,3 +222,10 @@ vn.rr2.internet-intl.spanner.alipaydns.com
 xjp-jmacs.m.taobao.com
 xjp-jmacs.m.taobao.com.gds.alibabadns.com
 xjp-msgacs.m.taobao.com
+
+# ---------------------------
+
+*.smartlauncher.net
+smartlauncher.net
+*.ajay.app
+ajay.app
