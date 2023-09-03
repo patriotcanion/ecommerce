@@ -1,5 +1,6 @@
 shopee.com
 dem.shopee.com
+open.shopee.com
 play-aka.vod.shopee.com
 play-ws.vod.shopee.com
 www.shopee.com
